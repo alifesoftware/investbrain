@@ -14,6 +14,11 @@ Investbrain is a smart open-source investment tracker that helps you manage, tra
 
 <p align="center"><a href="https://investbra.in" target="_blank"><img src="https://raw.githubusercontent.com/investbrainapp/investbrain/main/screenshot.png" width="100%" alt="Investbrain Screenshot"></a></p>
 
+## A-Life Software InvestBrain Deployment
+```
+https://github.com/alifesoftware/investbrain-docker-setup
+```
+
 ## Table of contents
 - [Under the hood](#under-the-hood)
 - [Install (self hosting)](#self-hosting)
